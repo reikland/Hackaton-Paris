@@ -1,1 +1,0 @@
-This repository was prepared from the local cargo-viz-atlas project copy.
